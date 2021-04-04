@@ -4,8 +4,6 @@
 
 ## I’m a software engineering student
 
-🥅 My 2020 Goals: Contribute with Open Source projects.
-
 ## 🌱 I’m currently learning
 
 - TypeScript
